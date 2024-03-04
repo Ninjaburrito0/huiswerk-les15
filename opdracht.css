@@ -1,0 +1,58 @@
+.menuknoppen {
+    color: blue;
+    text-decoration: none;
+    }
+    li{
+    display: inline-block;
+    height: 15px;
+    width: 70px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb blue;
+    border-top:2px black;
+    border-right:2px black;
+    border-bottom:2px black;
+    border-left:2px black;
+    }
+    li:hover{
+    background-color: lightblue;
+    border-style: none;
+    }
+#Index {
+    background-color: rgb(208, 255, 0);
+    padding: 5px;
+    Margin-left:200px;
+    margin-right:200px;
+}
+
+#CV {
+    background-color: beige;
+    padding: 5px;
+    Margin-left:200px;
+    margin-right:200px;
+}
+#contact {
+    background-color: brown;
+    padding: 5px;
+    Margin-left:200px;
+    margin-right:200px;
+    
+}
+#contactformulier {
+    background-color: blueviolet;
+    padding: 5px;
+    Margin-left:200px;
+    margin-right:200px;
+}
+#mezelf {
+    background-color: bisque;
+    Margin-left:200px;
+    margin-right:200px;
+}
+footer {
+padding: 5px
+}
+header {
+padding: 5px
+}
