@@ -1,5 +1,5 @@
 .menuknoppen {
-    color: blue;
+    color: #86A789;
     text-decoration: none;
     }
     li{
@@ -9,7 +9,7 @@
     padding: 15px;
     text-align: center;
     color: white;
-    background-color: rgb blue;
+    background-color: #86A789;
     border-top:2px black;
     border-right:2px black;
     border-bottom:2px black;
@@ -20,33 +20,39 @@
     border-style: none;
     }
 #Index {
-    background-color: rgb(208, 255, 0);
+    background-color: #B2C8BA;
     padding: 5px;
     Margin-left:200px;
     margin-right:200px;
 }
 
 #CV {
-    background-color: beige;
+    background-color: #B2C8BA;
+    padding: 5px;
+    Margin-left:200px;
+    margin-right:200px;
+}
+#mijncv {
+    background-color: #EBF3E8;
     padding: 5px;
     Margin-left:200px;
     margin-right:200px;
 }
 #contact {
-    background-color: brown;
+    background-color: #B2C8BA;
     padding: 5px;
     Margin-left:200px;
     margin-right:200px;
     
 }
 #contactformulier {
-    background-color: blueviolet;
+    background-color: #EBF3E8;
     padding: 5px;
     Margin-left:200px;
     margin-right:200px;
 }
 #mezelf {
-    background-color: bisque;
+    background-color: #D2E3C8;
     Margin-left:200px;
     margin-right:200px;
 }
